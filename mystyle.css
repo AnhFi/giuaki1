@@ -1,0 +1,191 @@
+
+body{
+    background-color: rgb(83, 83, 231);
+}
+#shark{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Shark;
+    animation-duration: 7s;
+    animation-timing-function: ease ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Shark{
+    0% {left:0; top:300px}
+    20% {left:150px; top:300px}
+    40% {left:300px; top:300px}
+    50% {left:400px; top:300px}
+    60% {left:500px; top:300px}
+    80% {left: 700px; top:300px}
+    90% {left: 950px; top:300px}
+    100% {left:1000px; top:300px; }
+    
+}
+
+
+#diver1{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Diver1;
+    animation-duration: 7s;
+    animation-timing-function: ease ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Diver1{
+    0% {left:200px; top:300px}
+    10% {left:300px; top:300px}
+    20% {left:400px; top:300px}
+    40% {left:450px; top:300px}
+    50% {left:650px; top:300px}
+    60% {left:700px; top:300px}
+    70% {left:800px; top:300px}
+    80% {left: 950px; top:300px}
+    90% {left: 1000px; top:300px}
+    100% {left:1200px; top:300px;}
+    
+}
+
+#diver2{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Diver2;
+    animation-duration: 7s;
+    animation-timing-function: ease ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Diver2{
+    0% {left:200px; top:300px}
+    10% {left:350px; top:350px}
+    20% {left:400px; top:400px}
+    40% {left:450px; top:450px}
+    50% {left:650px; top:500px}
+    60% {left:700px; top:500px}
+    70% {left:800px; top:500px}
+    80% {left: 950px; top:450px}
+    90% {left: 1000px; top:500px}
+    100% {left:1200px; top:500px;}
+    
+}
+
+#diver3{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Diver3;
+    animation-duration: 7s;
+    animation-timing-function: ease ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Diver3{
+    0% {left:200px; top:200px}
+    10% {left:350px; top:210px}
+    20% {left:400px; top:220px}
+    40% {left:450px; top:230px}
+    50% {left:650px; top:250px}
+    60% {left:700px; top:200px}
+    70% {left:800px; top:150px}
+    80% {left: 950px; top:100px}
+    90% {left: 1000px; top:0px}
+    100% {left:1300px; top:0pxx;}
+    
+}
+
+#goldfish{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Goldfish;
+    animation-duration: 7s;
+    animation-timing-function: linear ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Goldfish{
+    0% {left:200px; top:350px}
+    10% {left:300px; top:350px}
+    20% {left:400px; top:350px}
+    40% {left:600px; top:350px}
+    50% {left:700px; top:350px}
+    60% {left:800px; top:350px}
+    70% {left:900px; top:350px}
+    80% {left: 1100px; top:350px}
+    90% {left: 1200px; top:350px}
+    100% {left:1300px; top:350px;}
+    
+}
+
+#turtle{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: Turtle;
+    animation-duration: 15s;
+    animation-timing-function: linear ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes Turtle{
+    0% {left:100px; top:450px}
+    10% {left:200px; top:450px}
+    20% {left:300px; top:450px}
+    40% {left:400px; top:450px}
+    50% {left:500px; top:450px}
+    60% {left:600px; top:450px}
+    70% {left:700px; top:450px}
+    80% {left: 950px; top:450px}
+    90% {left: 1100px; top:450px}
+    100% {left:1200px; top:450px;}
+    
+}
+
+#faintschool{
+    left:auto; top:auto;
+    position: absolute;
+    animation-name: faint;
+    animation-duration: 7s;
+    animation-timing-function: linear ;
+    animation-iteration-count: infinite;
+    animation-play-state:running;
+    
+    
+}
+
+@keyframes faint{
+    0% {left:200px; top:250px}
+    10% {left:300px; top:250px}
+    20% {left:400px; top:250px}
+    40% {left:600px; top:250px}
+    50% {left:700px; top:250px}
+    60% {left:800px; top:250px}
+    70% {left:900px; top:250px}
+    80% {left: 1100px; top:250px}
+    90% {left: 1200px; top:250px}
+    100% {left:1300px; top:250px}
+    
+}
+
+
+
+
+
+
+

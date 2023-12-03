@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+
+
+    
+
+.col-2{
+    position: relative;
+}
+
+.list-group{
+    position: absolute;
+    top:0;
+    right:-15px;
+}
+
+.chitiet{
+    font-style: italic;
+}
+
+.navbar  {
+    background-color: aqua;
+}
+
